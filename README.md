@@ -75,10 +75,9 @@ The convex hulls used for the torso and arm are located in the assets folder
 ## Citation
 
 ```bibtex
-@unpublished{crowder2026requirement,
+@inproceedings{crowder2026requirement,
   title     = {Requirement-Driven Design of Whole-Body Social Tactile Sensing via Virtual Human--Robot Interaction},
   author    = {Crowder, Dakarai and Zhang, Ruohan and Block, Alexis E. and Yuan, Wenzhen},
-  note      = {Submitted to IROS 2026},
   year      = {2026}
 }
 ```

@@ -1,0 +1,249 @@
+[
+  {
+    "capsule_index": 1,
+    "column_prefix": "wrist1",
+    "source_name": "b_r_wrist_CapsuleCollider",
+    "height_m": 0.08732089,
+    "radius_m": 0.01822828,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.02543217,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 2,
+    "column_prefix": "wrist2",
+    "source_name": "b_r_wrist_CapsuleCollider",
+    "height_m": 0.09298772,
+    "radius_m": 0.02323196,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.0232619,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 3,
+    "column_prefix": "wrist3",
+    "source_name": "b_r_wrist_CapsuleCollider",
+    "height_m": 0.0754796,
+    "radius_m": 0.01608828,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.02165152,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 4,
+    "column_prefix": "wrist4",
+    "source_name": "b_r_wrist_CapsuleCollider",
+    "height_m": 0.07957523,
+    "radius_m": 0.02346085,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01632676,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 5,
+    "column_prefix": "thumb1",
+    "source_name": "b_r_thumb1_CapsuleCollider",
+    "height_m": 0.06927793,
+    "radius_m": 0.01838251,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01625646,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 6,
+    "column_prefix": "thumb2",
+    "source_name": "b_r_thumb2_CapsuleCollider",
+    "height_m": 0.054359,
+    "radius_m": 0.01028296,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01689654,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 7,
+    "column_prefix": "thumb3",
+    "source_name": "b_r_thumb3_CapsuleCollider",
+    "height_m": 0.0345643,
+    "radius_m": 0.009768807,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.007513341,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 8,
+    "column_prefix": "index1",
+    "source_name": "b_r_index1_CapsuleCollider",
+    "height_m": 0.05851783,
+    "radius_m": 0.01029526,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01896366,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 9,
+    "column_prefix": "index2",
+    "source_name": "b_r_index2_CapsuleCollider",
+    "height_m": 0.04037984,
+    "radius_m": 0.008038101,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01215182,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 10,
+    "column_prefix": "index3",
+    "source_name": "b_r_index3_CapsuleCollider",
+    "height_m": 0.0303585,
+    "radius_m": 0.007636196,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.007543055,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 11,
+    "column_prefix": "middle1",
+    "source_name": "b_r_middle1_CapsuleCollider",
+    "height_m": 0.06527488,
+    "radius_m": 0.01117394,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.0214635,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 12,
+    "column_prefix": "middle2",
+    "source_name": "b_r_middle2_CapsuleCollider",
+    "height_m": 0.04361152,
+    "radius_m": 0.008030958,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.0137748,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 13,
+    "column_prefix": "middle3",
+    "source_name": "b_r_middle3_CapsuleCollider",
+    "height_m": 0.03247123,
+    "radius_m": 0.00762941,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.008606207,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 14,
+    "column_prefix": "ring1",
+    "source_name": "b_r_ring1_CapsuleCollider",
+    "height_m": 0.0588404,
+    "radius_m": 0.009922139,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01949806,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 15,
+    "column_prefix": "ring2",
+    "source_name": "b_r_ring2_CapsuleCollider",
+    "height_m": 0.04179672,
+    "radius_m": 0.007611674,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01328669,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 16,
+    "column_prefix": "ring3",
+    "source_name": "b_r_ring3_CapsuleCollider",
+    "height_m": 0.03083794,
+    "radius_m": 0.00723109,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.008187878,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 17,
+    "column_prefix": "pinky1",
+    "source_name": "b_r_pinky1_CapsuleCollider",
+    "height_m": 0.04768712,
+    "radius_m": 0.008483353,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01536021,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 18,
+    "column_prefix": "pinky2",
+    "source_name": "b_r_pinky2_CapsuleCollider",
+    "height_m": 0.03383976,
+    "radius_m": 0.006764191,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.01015569,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  {
+    "capsule_index": 19,
+    "column_prefix": "pinky3",
+    "source_name": "b_r_pinky3_CapsuleCollider",
+    "height_m": 0.02793419,
+    "radius_m": 0.006425982,
+    "orientation": 0.0,
+    "center_offset_m": {
+      "x": 0.007541112,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+]
